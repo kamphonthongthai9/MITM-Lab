@@ -1,0 +1,6 @@
+{
+  "name": "MITM Lab: Man-in-the-Middle Simulator & Defense Sandbox",
+  "description": "An interactive cybersecurity educational lab simulating Man-in-the-Middle (MITM) attacks, cryptographic handshakes, packet inspection, and defense mechanisms like TLS 1.3, PKI, HSTS, and Certificate Pinning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
